@@ -1,4 +1,5 @@
-# RMarkdown_template
-Template for RMarkdown documents
+# RMarkdown template
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wg8PjkOxD4Y" frameborder="0" allowfullscreen></iframe>
+The template for RMarkdown documents mentioned in the video: 
+
+https://www.youtube.com/embed/wg8PjkOxD4Y
